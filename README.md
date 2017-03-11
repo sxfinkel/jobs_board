@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://isusieq-jobs-board.herokuapp.com/jobs
 
-Things you may want to cover:
+#renaming apps on herokuapp
 
-* Ruby version
+#deploy to herokuapp
+http://docs.railsbridge.org/intro-to-rails/deploying_to_heroku
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
